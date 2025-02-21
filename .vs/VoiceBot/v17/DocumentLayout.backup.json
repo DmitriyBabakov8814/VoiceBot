@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs\\rep\\VoiceBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\utilities\\speechdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\utilities\\speechdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\utilities\\audioconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\utilities\\audioconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\services\\audiofilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\services\\audiofilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\controllers\\voicemessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\controllers\\voicemessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\configuration\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\configuration\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\services\\memorystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\services\\memorystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\services\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\services\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\services\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\services\\ifilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\extensions\\directoryextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\extensions\\directoryextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\controllers\\textmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\controllers\\textmessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\controllers\\inlinekeyboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\controllers\\inlinekeyboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libvosk.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libwinpthread-1.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libstdc\u002B\u002B-6.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|c:\\users\\\u0434\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libgcc_s_seh-1.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\voicebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\voicebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\telegram.bot\\22.3.0\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AudioFileHandler.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Services\\AudioFileHandler.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Services\\AudioFileHandler.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Services\\AudioFileHandler.cs",
+              "RelativeToolTip": "VoiceBot\\Services\\AudioFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:08:10.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpeechDetector.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Utilities\\SpeechDetector.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Utilities\\SpeechDetector.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Utilities\\SpeechDetector.cs",
+              "RelativeToolTip": "VoiceBot\\Utilities\\SpeechDetector.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:52:37.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioConverter.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Utilities\\AudioConverter.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Utilities\\AudioConverter.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Utilities\\AudioConverter.cs",
+              "RelativeToolTip": "VoiceBot\\Utilities\\AudioConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:39:48.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Bot.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Bot.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Bot.cs",
+              "RelativeToolTip": "VoiceBot\\Bot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:25:39.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Program.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Program.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Program.cs",
+              "RelativeToolTip": "VoiceBot\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:45:04.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Configuration\\AppSettings.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Configuration\\AppSettings.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Configuration\\AppSettings.cs",
+              "RelativeToolTip": "VoiceBot\\Configuration\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:04:46.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VoiceMessageController.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Controllers\\VoiceMessageController.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Controllers\\VoiceMessageController.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Controllers\\VoiceMessageController.cs",
+              "RelativeToolTip": "VoiceBot\\Controllers\\VoiceMessageController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:05:43.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Extensions\\StringExtensions.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "VoiceBot\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:49:45.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemoryStorage.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Services\\MemoryStorage.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Services\\MemoryStorage.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Services\\MemoryStorage.cs",
+              "RelativeToolTip": "VoiceBot\\Services\\MemoryStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:47:15.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Services\\IStorage.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Services\\IStorage.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Services\\IStorage.cs",
+              "RelativeToolTip": "VoiceBot\\Services\\IStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:45:26.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFileHandler.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Services\\IFileHandler.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Services\\IFileHandler.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Services\\IFileHandler.cs",
+              "RelativeToolTip": "VoiceBot\\Services\\IFileHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:56:03.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Session.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Models\\Session.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Models\\Session.cs",
+              "RelativeToolTip": "VoiceBot\\Models\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:24:53.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DirectoryExtension.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Extensions\\DirectoryExtension.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Extensions\\DirectoryExtension.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Extensions\\DirectoryExtension.cs",
+              "RelativeToolTip": "VoiceBot\\Extensions\\DirectoryExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T14:49:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TextMessageController.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Controllers\\TextMessageController.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Controllers\\TextMessageController.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Controllers\\TextMessageController.cs",
+              "RelativeToolTip": "VoiceBot\\Controllers\\TextMessageController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:05:28.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "VoiceBot\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:04:37.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InlineKeyboardController.cs",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Controllers\\InlineKeyboardController.cs",
+              "RelativeDocumentMoniker": "VoiceBot\\Controllers\\InlineKeyboardController.cs",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Controllers\\InlineKeyboardController.cs",
+              "RelativeToolTip": "VoiceBot\\Controllers\\InlineKeyboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T19:04:59.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "libvosk.dll",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libvosk.dll",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libvosk.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-02-21T14:50:57.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "libwinpthread-1.dll",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libwinpthread-1.dll",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libwinpthread-1.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-02-21T14:50:58.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "libstdc\u002B\u002B-6.dll",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libstdc\u002B\u002B-6.dll",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libstdc\u002B\u002B-6.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-02-21T14:50:57.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "libgcc_s_seh-1.dll",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libgcc_s_seh-1.dll",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\vosk\\0.3.38\\build\\lib\\win-x64\\libgcc_s_seh-1.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-02-21T14:50:56.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VoiceBot.csproj",
+              "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\VoiceBot.csproj",
+              "RelativeDocumentMoniker": "VoiceBot\\VoiceBot.csproj",
+              "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\VoiceBot.csproj",
+              "RelativeToolTip": "VoiceBot\\VoiceBot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T19:56:45.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\telegram.bot\\22.3.0\\README.md",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043C\u0430\\.nuget\\packages\\telegram.bot\\22.3.0\\README.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-11T19:59:01.503Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
