@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\vs\\rep\\VoiceBot\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\controllers\\voicemessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\controllers\\voicemessagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|solutionrelative:voicebot\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E251387-CB5A-4877-9B32-28AC6C346A58}|VoiceBot\\VoiceBot.csproj|d:\\vs\\rep\\voicebot\\voicebot\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -93,11 +93,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AudioFileHandler.cs",
               "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Services\\AudioFileHandler.cs",
               "RelativeDocumentMoniker": "VoiceBot\\Services\\AudioFileHandler.cs",
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SpeechDetector.cs",
               "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Utilities\\SpeechDetector.cs",
               "RelativeDocumentMoniker": "VoiceBot\\Utilities\\SpeechDetector.cs",
@@ -121,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AudioConverter.cs",
               "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Utilities\\AudioConverter.cs",
               "RelativeDocumentMoniker": "VoiceBot\\Utilities\\AudioConverter.cs",
@@ -133,25 +133,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Bot.cs",
               "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Bot.cs",
               "RelativeDocumentMoniker": "VoiceBot\\Bot.cs",
               "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Bot.cs",
               "RelativeToolTip": "VoiceBot\\Bot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEcAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T20:25:39.436Z"
+              "WhenOpened": "2025-02-18T20:25:39.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Program.cs",
               "RelativeDocumentMoniker": "VoiceBot\\Program.cs",
               "ToolTip": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Program.cs",
               "RelativeToolTip": "VoiceBot\\Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAowD8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T19:45:04.468Z",
               "EditorCaption": ""
@@ -170,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "VoiceMessageController.cs",
               "DocumentMoniker": "D:\\vs\\rep\\VoiceBot\\VoiceBot\\Controllers\\VoiceMessageController.cs",
               "RelativeDocumentMoniker": "VoiceBot\\Controllers\\VoiceMessageController.cs",

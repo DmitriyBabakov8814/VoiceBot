@@ -56,7 +56,7 @@ namespace VoiceBot
                 AudioFileName = "audio",
                 InputAudioFormat = "ogg",
                 OutputAudioFormat = "wav",
-                BotToken = "8121162194:AAFmEyra-N_SaBHuWJctuaVIJkJ4nwDZ27A",
+                BotToken = "add Token",
                 InputAudioBitrate = 48000
             };
         }
